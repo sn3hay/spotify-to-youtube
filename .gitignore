@@ -1,0 +1,11 @@
+# .gitignore
+
+# Ignore client_secret.json
+client_secrets.json
+
+# Ignore .env files
+.env
+
+#Ignore .cache files
+.cache
+youtube_api.cpython-311.pyc
